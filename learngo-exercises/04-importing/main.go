@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	format "fmt"
-	formatter "fmt"
+	format "fmt"    // format can use like fmt right now.
+	formatter "fmt" // formatter can use like fmt right now.
 )
 
 func main() {

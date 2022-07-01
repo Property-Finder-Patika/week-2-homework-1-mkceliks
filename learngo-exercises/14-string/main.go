@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	var thisString string = ""
+	var thisString string = "" // declaring a string variable named of thisString.
 
 	fmt.Println(thisString)
 }

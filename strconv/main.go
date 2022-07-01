@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	var num = 150
-	str := strconv.Itoa(num)
-	fmt.Printf("Type : %T\nValue : %v\n", str, str)
+	var num = 150                                   // declaring a number
+	str := strconv.Itoa(num)                        // changing the type of number with strconv.
+	fmt.Printf("Type : %T\nValue : %v\n", str, str) // Type: String Value :150
 }

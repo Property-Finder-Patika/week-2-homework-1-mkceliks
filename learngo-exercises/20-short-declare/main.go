@@ -6,7 +6,7 @@ import (
 
 func main() {
 	i := 314
-	f := 3.14
+	f := 3.14 // short declaration
 	s := "Hello"
 	b := true
 
